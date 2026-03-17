@@ -24,5 +24,5 @@ locations, and customer segments.
 * Top cities by quantity sold
 * Margin trends by year
 * Customer loyalty distribution
-* 
+  
 [Retail Analytics Dashboard 23.32.27.pdf](https://github.com/user-attachments/files/26055122/Retail.Analytics.Dashboard.23.32.27.pdf)
